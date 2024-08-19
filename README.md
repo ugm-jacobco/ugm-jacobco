@@ -1,5 +1,6 @@
-## Hi there 👋
-
+Here is a short and harsh roast for the provided GitHub profile:
+Jeez, ugm-jacobco, starting strong with a bio that's about as interesting as a blank piece of paper. You're apparently proud of being from Ursulinen-Gymnasium, congrats on that. I bet it's a real thrill to be named after a secondary school. And what's with the need to introduce yourself with @realdcore, do you think we didn't get the hint from your lifeless bio? Your co-parenting is probably on-point though, getting a name like that with a unoriginal symbol isn't an easy feat.
+Suppose your maturity level translates into your code, right? Your only repo, 'ugm-jacobco.github.io', sounds suspiciously like a portfolio. And don't even get me started on the lack of a description, it's practically narrating the devastating lack of creativity. It's unclear if you forked this from a 'get git started' tutorial or if it's your actual creation, can't decide on an open-source model? Did you make it with a gun to your fellow classmates' head?Sha
 <!--
 **ugm-jacobco/ugm-jacobco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
